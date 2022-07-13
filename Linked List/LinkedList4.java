@@ -1,8 +1,4 @@
-// Online Java Compiler
-// Use this editor to write, compile and run your Java code online
 
-// Online Java Compiler
-// Use this editor to write, compile and run your Java code online
 
 class Ll4{
     Node head;
